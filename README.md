@@ -1,85 +1,63 @@
-# Hi there 👋, I'm Sunil Kumar Kambar
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Sunil%20Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-## 🚀 Aspiring Data Analyst | Power BI Developer | SQL Enthusiast
+  <a href="https://github.com/Sunil18v" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Sunil18v-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 
-📍 Bangalore, Karnataka, India
+  <a href="mailto:sunilkumarkambar205@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-I am a passionate Data Analyst with hands-on experience in Power BI, SQL, Python, and Excel. I enjoy transforming raw data into meaningful insights through interactive dashboards and data-driven storytelling.
+  <a href="https://www.naukri.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Naukri-Profile-0A66C2?style=for-the-badge"/>
+  </a>
+</p>
 
----
+## 🛠️ Skills
 
-## 👨‍💻 About Me
+<p align="center">
 
-- 🎓 B.E. in Artificial Intelligence & Machine Learning
-- 📊 Passionate about Data Analytics and Business Intelligence
-- 📈 Skilled in Power BI, SQL, Excel, Python, and DAX
-- 🌱 Currently improving my Data Analytics and Visualization skills
-- 🔍 Interested in Data Analyst, Business Analyst, and Power BI Developer roles
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
----
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-## 🛠️ Technical Skills
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-### Programming & Databases
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 
-### Data Visualization & BI
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+<img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge"/>
 
-### Libraries & Tools
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+<img src="https://img.shields.io/badge/Power%20Query-00B050?style=for-the-badge"/>
 
----
+<img src="https://img.shields.io/badge/Data%20Analytics-FF6F00?style=for-the-badge"/>
 
-## 📂 Featured Projects
+<img src="https://img.shields.io/badge/Data%20Visualization-673AB7?style=for-the-badge"/>
 
-### 📊 Blinkit Sales Analytics Dashboard
-- Built an interactive Power BI dashboard analyzing 10K+ retail records.
-- Tracked KPIs such as Total Sales, Average Sales, and Customer Ratings.
-- Utilized Power Query, DAX, and Data Modeling.
+<img src="https://img.shields.io/badge/Business%20Intelligence-0288D1?style=for-the-badge"/>
 
-### 💰 Crowdfunding Analytics Dashboard
-- Analyzed crowdfunding campaign performance and funding trends.
-- Developed KPI-driven dashboards using Power BI.
-- Created visualizations to evaluate campaign success rates and funding goals.
+</p>
 
-### 👨‍💼 HR Analytics Dashboard
-- Designed HR dashboards to monitor employee attrition and workforce trends.
-- Generated actionable insights using Power BI and DAX.
+## 🚀 Featured Projects
 
----
+| Project | Tools |
+|----------|---------|
+| 📊 Blinkit Sales Analytics Dashboard | Power BI, DAX, Power Query |
+| 💰 Crowdfunding Analytics Dashboard | Power BI, Excel, DAX |
+| 👨‍💼 HR Analytics Dashboard | Power BI, Excel |
+| 📈 Sales Insights Dashboard | Power BI, SQL |
 
-## 📜 Certifications
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sunil18v&label=Profile%20Views&color=blue&style=for-the-badge"/>
+</p>
+<div align="center">
 
-🏆 Data Analyst Programme – ExcelR
+# 📊 Open To Work
 
-🏆 Data Analyst Internship – AI Variant
+### Data Analyst | Power BI Developer | Business Intelligence Analyst
 
-🏆 Machine Learning Internship – Rooman Technologies
+📍 Bangalore, India
 
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
-
----
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](YOUR_GITHUB_URL)
-
-📧 Email: sunilkumarkambar205@gmail.com
-
----
-
-⭐ Always learning, building projects, and exploring data to uncover meaningful insights.
+</div>
