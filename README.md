@@ -1,214 +1,85 @@
-<div align="center">   
+# Hi there 👋, I'm Sunil Kumar Kambar
 
-<a href="https://vinod-portfolio.pages.dev/" target="_blank">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=58A6FF&center=true&vCenter=true&width=500&lines=SUPRIT+ITAGI;Data+Scientist;Python+Developer;ML+Engnieer" alt="Suprit itagi" />
-</a>
+## 🚀 Aspiring Data Analyst | Power BI Developer | SQL Enthusiast
 
-### Data Science | Python Development | ML Engineer
+📍 Bangalore, Karnataka, India
 
-[![Profile Views](https://komarev.com/ghpvc/?username=vinodbavage31&style=flat-square&color=blueviolet)](https://github.com/vinodbavage31)
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sunil-kumar-b77365319" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/?hl=en" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="mailto:sunilkumarkambar205@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
-</div>
+I am a passionate Data Analyst with hands-on experience in Power BI, SQL, Python, and Excel. I enjoy transforming raw data into meaningful insights through interactive dashboards and data-driven storytelling.
 
 ---
 
-<div align="center">
+## 👨‍💻 About Me
 
-## About Me
-
-</div>
-
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Sunil kumar"
-        self.role = ["Data Analyst", "Power bi developer"]
-        self.location = "Bengaluru, Kranataka, IN"
-        self.tech_stack = {
-            "data_science": ["Machine Learning", "Deep Learning", "EDA"],
-        }
-        self.projects_built = "4+ websites"
-        
-    def current_focus(self):
-        return ["Advanced ML", "Model Deployment", "data scientist"]
-
-dev = Developer()
-print(f"Building: {dev.projects_built} and counting...")
-```
-
-<div align="center">
-
-Working on personal and real-world data science projects  
-Learning advanced ML, model deployment, and scalable pipelines  
-Building modern web applications with React and TypeScript  
-Open to Data Scientist, ML Engineer, and Python Developer roles
-
-</div>
+- 🎓 B.E. in Artificial Intelligence & Machine Learning
+- 📊 Passionate about Data Analytics and Business Intelligence
+- 📈 Skilled in Power BI, SQL, Excel, Python, and DAX
+- 🌱 Currently improving my Data Analytics and Visualization skills
+- 🔍 Interested in Data Analyst, Business Analyst, and Power BI Developer roles
 
 ---
 
-<div align="center">
+## 🛠️ Technical Skills
 
-## Tech Stack
+### Programming & Databases
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,html,css,tailwind,vite,nodejs,express" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,mysql,mongodb,postgres,redis,firebase" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,gcp,linux,bash,vscode,postman" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=figma,notion,vercel,netlify,cloudflare" />
-</p>
+### Data Visualization & BI
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-</div>
-
----
-
-<div align="center">
-
-## GitHub Analytics
-
-<p align="center">
-<img 
-  width="49%" 
-  src="https://github-readme-stats.vercel.app/api?username=vinodbavage31&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=f85d7f&icon_color=f8d866&text_color=c9d1d9&cache_seconds=1800" 
-  alt="GitHub Stats"
-/>  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=suprititagi01&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F&sideLabels=F85D7F&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="GitHub Streak"/>
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suprititagi01&bg_color=0d1117&color=f85d7f&line=f8d866&point=c9d1d9&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Graph" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=suprititagi01&theme=radical&utcOffset=5.5" alt="Productive Time"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=suprititagi01&theme=radical" alt="Most Used Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suprititagi01&theme=radical" alt="Profile Details"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
-</p>
-
-</div>
+### Libraries & Tools
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 ---
 
-<div align="center">
+## 📂 Featured Projects
 
-## What I Do
+### 📊 Blinkit Sales Analytics Dashboard
+- Built an interactive Power BI dashboard analyzing 10K+ retail records.
+- Tracked KPIs such as Total Sales, Average Sales, and Customer Ratings.
+- Utilized Power Query, DAX, and Data Modeling.
 
-</div>
+### 💰 Crowdfunding Analytics Dashboard
+- Analyzed crowdfunding campaign performance and funding trends.
+- Developed KPI-driven dashboards using Power BI.
+- Created visualizations to evaluate campaign success rates and funding goals.
 
-<table>
-<tr>
-<td width="33%">
-
-### Machine Learning
-- End-to-end ML pipelines
-- Model training & evaluation
-- Feature engineering
-- Hyperparameter tuning
-- Model deployment
-
-</td>
-<td width="33%">
-
-### Data Analysis
-- Exploratory Data Analysis
-- Data visualization
-- Statistical analysis
-- Data preprocessing
-- Insight generation
-
-</td>
-<td width="33%">
-
-### Deep Learning
-- Neural networks
-- CNN, RNN, Transformers
-- Transfer learning
-- Model optimization
-- Computer vision & NLP
-
-</td>
-<td width="33%">
-
-### Python Development
-- Automation scripts
-- Data pipelines
-- API development
-- Backend services
-- Tool building
-
-</td>
-<td width="33%">
-
-### DevOps & Tools
-- Docker containerization
-- Cloud deployment
-- CI/CD pipelines
-- Version control
-- Linux administration
-
-</td>
-</tr>
-</table>
+### 👨‍💼 HR Analytics Dashboard
+- Designed HR dashboards to monitor employee attrition and workforce trends.
+- Generated actionable insights using Power BI and DAX.
 
 ---
 
-<div align="center">
+## 📜 Certifications
 
+🏆 Data Analyst Programme – ExcelR
 
-</p>
+🏆 Data Analyst Internship – AI Variant
 
-</div>
-
-## Let's Connect
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=F8D866&center=true&vCenter=true&width=600&lines=Open+to+exciting+opportunities;Let's+build+something+amazing+together!" alt="Connect" />
-</p>
-
-<p align="center">
-  <a href="http://linkedin.com/in/suprit-itagi-5725892b6">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:itagisuprit@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/?hl=en">
-    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vinodbavage31&label=Profile%20Views&color=F85D7F&style=for-the-badge" alt="Profile Views"/>
-</p>
-
-<br>
-
-<p align="center">
-  <i>⭐ If you find my work interesting, consider starring my repositories!</i>
-</p>
-
-</div>
+🏆 Machine Learning Internship – Rooman Technologies
 
 ---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](YOUR_GITHUB_URL)
+
+📧 Email: sunilkumarkambar205@gmail.com
+
+---
+
+⭐ Always learning, building projects, and exploring data to uncover meaningful insights.
