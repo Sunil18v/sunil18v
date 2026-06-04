@@ -1,15 +1,20 @@
 <h1 align="center">Hi 👋, I'm Sunil Kumar Kambar</h1>
-<h3 align="center">Data Analyst | Power BI Developer | SQL Enthusiast | AI & ML Graduate</h3>
+
+<h3 align="center">
+📊 Data Analyst | 📈 Power BI Developer | 🐍 Python Enthusiast | 💡 AI & ML Graduate
+</h3>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-Sunil_Kumar_Kambar-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="YOUR_GITHUB_URL">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+  
+  <a href="https://github.com/Sunil18v">
+    <img src="https://img.shields.io/badge/GitHub-Sunil18v-black?style=for-the-badge&logo=github" />
   </a>
+
   <a href="mailto:sunilkumarkambar205@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
@@ -17,137 +22,177 @@
 
 ## 🚀 About Me
 
-🎓 B.E. in Artificial Intelligence & Machine Learning
+🎓 Artificial Intelligence & Machine Learning Graduate
 
-📊 Data Analyst passionate about transforming raw data into meaningful business insights.
+📊 Data Analyst with hands-on experience in:
+- Power BI Dashboard Development
+- SQL Query Optimization
+- Data Cleaning & Transformation
+- KPI Reporting & Business Insights
+- Python Data Analysis
+- Machine Learning
 
-📈 Skilled in Data Analysis, Dashboard Development, KPI Reporting, and Business Intelligence.
+💡 Passionate about turning complex data into meaningful business decisions.
 
-💡 Experienced in Power BI, SQL, Python, Excel, and Machine Learning.
-
-🔍 Strong interest in Data Analytics, Business Intelligence, and Data-Driven Decision Making.
+🌱 Currently exploring:
+- Advanced SQL
+- Business Intelligence
+- Data Engineering
+- Cloud Analytics
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 📊 Data Analytics & BI
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+### Programming Languages
 
-### 💾 Database
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🐍 Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 📚 Libraries
+### Data Analytics
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+### Libraries
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn)
 
-### 🔧 Tools
+### Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
 
 ---
 
-## 💼 Professional Experience
+## 💼 Experience
 
 ### 📊 Data Analyst Intern | AI Variant
-**Jul 2025 – Oct 2025**
 
-✔ Analyzed datasets using SQL and Power BI
+🔹 SQL Data Analysis
 
-✔ Built interactive dashboards using DAX
+🔹 Power BI Dashboard Development
 
-✔ Performed data cleaning and transformation
+🔹 KPI Reporting
 
-✔ Automated reporting processes
+🔹 Data Cleaning & Transformation
 
-✔ Generated KPI reports for business decisions
+🔹 Report Automation
 
 ---
 
 ### 🤖 Machine Learning Intern | Rooman Technologies
-**Sep 2024 – Feb 2025**
 
-✔ Built ML models using Python & Scikit-Learn
+🔹 Machine Learning Model Development
 
-✔ Data preprocessing & feature engineering
+🔹 Feature Engineering
 
-✔ Applied supervised & unsupervised learning
+🔹 Data Preprocessing
 
-✔ Evaluated model performance
+🔹 Model Evaluation
 
 ---
 
-## 📂 Featured Projects
+## 🚀 Featured Projects
 
 ### 🛒 Blinkit Analytics Dashboard
-📌 Power BI | DAX | Power Query
 
-✔ Analyzed 10K+ retail records
+✔ Sales Performance Analysis
 
-✔ Built interactive sales dashboards
+✔ Interactive Power BI Dashboard
 
-✔ Tracked KPIs and business metrics
+✔ DAX Calculations
 
-✔ Identified sales trends and customer insights
+✔ Business KPI Tracking
+
+🔗 Repository: https://github.com/Sunil18v
 
 ---
 
 ### 💰 Crowdfunding Analytics Dashboard
-📌 Power BI | Excel | DAX | Power Query
 
-✔ Campaign success analysis
+✔ Funding Trend Analysis
 
-✔ Funding trend identification
+✔ Campaign Success Metrics
 
-✔ KPI reporting and dashboard development
+✔ Power BI Visualizations
 
-✔ Data cleaning and transformation
+✔ Data Cleaning & Modeling
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
-</p>
+🔗 Repository: https://github.com/Sunil18v
 
 ---
 
-## 🎯 Current Focus
+## 📊 GitHub Statistics
 
-🔹 Data Analytics Projects
+<p align="center">
 
-🔹 Power BI Dashboard Development
+<img src="https://github-readme-stats.vercel.app/api?username=Sunil18v&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
 
-🔹 Advanced SQL
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunil18v&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
-🔹 Python for Data Analysis
+</p>
 
-🔹 Business Intelligence Solutions
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sunil18v&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 📈 GitHub Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sunil18v&theme=tokyo-night"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sunil18v&theme=tokyonight&row=1&column=7"/>
+
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-📧 Email: sunilkumarkambar205@gmail.com
+<p align="center">
 
-💼 LinkedIn: YOUR_LINKEDIN_URL
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
 
-💻 GitHub: YOUR_GITHUB_URL
+<a href="https://github.com/Sunil18v">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
 
 ---
 
-⭐ "Turning Data Into Actionable Insights"
+### 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Sunil18v&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+<h3 align="center">
+⭐ Transforming Data into Actionable Insights ⭐
+</h3>
