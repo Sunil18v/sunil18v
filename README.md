@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sunil Kumar Kambar</h1>
 
 <h3 align="center">
-📊 Data Analyst | 📈 Power BI Developer | 🐍 Python Enthusiast | 💡 AI & ML Graduate
+📊 Data Analyst | 📈 Power BI Developer  | 💡 AI & ML Graduate 
 </h3>
 
 <p align="center">
@@ -31,6 +31,9 @@
 - KPI Reporting & Business Insights
 - Python Data Analysis
 - Machine Learning
+- Dax(data analysis expression)
+- ETL(Extract-->Transport--> load)
+  
 
 💡 Passionate about turning complex data into meaningful business decisions.
 
