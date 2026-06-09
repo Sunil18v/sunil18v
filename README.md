@@ -61,6 +61,32 @@
 
 ---
 
+# 📊 Data Analytics Skills
+
+### Data Analysis
+✔ Data Cleaning
+✔ Exploratory Data Analysis (EDA)
+✔ Data Wrangling
+✔ Statistical Analysis
+
+### Data Visualization
+✔ Power BI
+✔ Excel Dashboards
+✔ Matplotlib
+✔ Plotly
+
+### Database
+✔ SQL Joins
+✔ CTEs
+✔ Window Functions
+✔ Stored Procedures
+
+### Business Intelligence
+✔ KPI Tracking
+✔ Dashboard Design
+✔ Business Reporting
+✔ Data Storytelling
+
 # 🛠️ Tech Stack
 
 ## 📊 Data Analytics & BI
