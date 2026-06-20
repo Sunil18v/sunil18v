@@ -1,184 +1,193 @@
-# 👋 Hey, I'm Sunil Kumar Kambar
+# <div align="center">🚀 Sunil Kumar Kambar</div>
 
-### 📊 Data Analyst | 📈 Power BI Developer | 🐍 Python Enthusiast | 🤖 AI & ML Graduate
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Welcome+to+My+GitHub!;Data+Analyst+%7C+Power+BI+Developer;Transforming+Data+into+Insights;SQL+%7C+Python+%7C+Power+BI;Always+Learning+and+Growing" />
-</p>
+### 📊 Data Analyst | 📈 Power BI Developer | 🐍 Python Programmer | 🤖 AI & ML Graduate
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=24&pause=1000&center=true&vCenter=true&width=850&lines=Hello+World!+I'm+Sunil+Kumar+Kambar;Data+Driven+Decision+Maker;Power+BI+%7C+SQL+%7C+Python;Creating+Insights+From+Data;Future+Data+Analyst" />
 
-## 🚀 About Me
-
-🎓 AI & Machine Learning Graduate
-
-📊 Passionate about Data Analytics & Business Intelligence
-
-📈 Specialized in Power BI Dashboard Development
-
-🐍 Skilled in Python for Data Analysis
-
-💡 Turning Raw Data into Actionable Insights
-
-📍 Bangalore, India
-
-🎯 Actively Seeking Data Analyst Opportunities
+</div>
 
 ---
 
-## 💼 What I Do
+## 🌟 Profile Summary
 
-✔ Analyze business data to uncover insights
+🎓 Bachelor of Engineering in Artificial Intelligence & Machine Learning
 
-✔ Create interactive Power BI dashboards
+📊 Enthusiastic Data Analyst with hands-on experience in Business Intelligence
 
-✔ Perform data cleaning and transformation
+📈 Skilled in creating impactful dashboards using Power BI
 
-✔ Build KPI-driven business reports
+🛢️ Strong knowledge of SQL for data extraction and analysis
 
-✔ Write SQL queries for data extraction
+🐍 Python developer focused on Data Analytics and Visualization
 
-✔ Automate reporting processes
+🌱 Continuously learning new technologies in Data Analytics
+
+📍 Karnataka, India
+
+💼 Open to Data Analyst & Business Analyst Opportunities
 
 ---
 
-## 🛠️ Tech Stack
+## 📌 Core Competencies
 
-### 📊 Data Analytics
+🔹 Data Analysis & Reporting
 
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
+🔹 Dashboard Development
 
-### 🐍 Programming
+🔹 Data Cleaning & Transformation
+
+🔹 Exploratory Data Analysis (EDA)
+
+🔹 KPI & Business Performance Tracking
+
+🔹 Data Visualization
+
+🔹 Business Intelligence Solutions
+
+---
+
+## ⚙️ Tools & Technologies
+
+### 📊 BI & Analytics
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 💻 Programming & Libraries
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 📚 Libraries
-
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 💰 Crowdfunding Analytics Dashboard
+### 📈 Crowdfunding Analytics Dashboard
 
-📌 Campaign Success Analysis
+✔ Campaign Performance Analysis
 
-📌 Funding Trend Monitoring
+✔ Success & Failure Insights
 
-📌 KPI Performance Tracking
+✔ Funding Trend Analysis
 
-📌 Interactive Power BI Visualizations
-
----
+✔ Dynamic Power BI Dashboard
 
 ### 🛒 Blinkit Sales Dashboard
 
-📌 Sales & Revenue Analysis
+✔ Sales Performance Monitoring
 
-📌 Outlet Performance Insights
+✔ Revenue Trend Analysis
 
-📌 Product Category Analysis
+✔ Outlet & Product Insights
 
-📌 Business KPI Reporting
-
----
+✔ Interactive Business Reports
 
 ### 🎬 Movie Data Analysis
 
-📌 Data Cleaning & Preprocessing
+✔ Data Cleaning & Processing
 
-📌 Exploratory Data Analysis
+✔ Exploratory Data Analysis
 
-📌 Correlation Analysis
+✔ Trend & Correlation Analysis
 
-📌 Python Visualizations
-
----
-
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sunil18v&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunil18v&layout=compact&theme=tokyonight" />
-</p>
+✔ Advanced Visualizations Using Python
 
 ---
 
-## 🔥 GitHub Streak
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sunil18v&theme=tokyonight" />
-</p>
+<div align="center">
 
----
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Sunil18v&show_icons=true&theme=radical"/>
 
-## 📊 Activity Graph
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunil18v&layout=compact&theme=radical"/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sunil18v&theme=tokyo-night" />
-</p>
+</div>
 
 ---
 
-## 🏆 Certifications
+## 🔥 Contribution Streak
 
-🏅 Data Analytics Certification
+<div align="center">
 
-🏅 Power BI Certification
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sunil18v&theme=radical" />
 
-🏅 SQL Certification
+</div>
 
-🏅 Machine Learning Certification
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sunil18v&theme=react-dark" />
+
+</div>
+
+---
+
+## 🏅 Certifications
+
+📜 Data Analytics Certification
+
+📜 Power BI Certification
+
+📜 SQL Certification
+
+📜 Machine Learning Certification
+
+📜 Python for Data Science Certification
 
 ---
 
 ## 🎯 2026 Goals
 
-✅ Secure a Data Analyst Position
+☑ Land a Data Analyst Role
 
-✅ Master Advanced SQL
+☑ Build 25+ End-to-End Projects
 
-✅ Complete 20+ Analytics Projects
+☑ Master SQL & Power BI
 
-✅ Learn Azure Data Fundamentals
+☑ Learn Azure Data Fundamentals
 
-✅ Strengthen Data Engineering Skills
+☑ Explore Data Engineering Concepts
+
+☑ Strengthen Python Skills
 
 ---
 
-## 🤝 Connect With Me
+## 📫 Let's Connect
 
-<p align="center">
+<div align="center">
 
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+<a href="https://www.linkedin.com/in/sunil-kumar-b77365319">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://github.com/Sunil18v">
-  <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="mailto:sunilkumarkambar205@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
 </a>
 
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ "Without data, you're just another person with an opinion."
+### 💡 "Data is a precious thing and will last longer than the systems themselves."
 
-### 🚀 Thanks for visiting my profile!
+### ⭐ Thanks for visiting my profile!
+
+![Profile Views](https://komarev.com/ghpvc/?username=Sunil18v&label=Profile+Views&color=blue&style=for-the-badge)
 
 </div>
