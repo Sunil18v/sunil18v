@@ -1,62 +1,38 @@
-# <div align="center">🚀 Sunil Kumar Kambar</div>
+```md
+# 👋 Hi, I'm Sunil Kumar Kambar
 
 <div align="center">
 
 ### 📊 Data Analyst | 📈 Power BI Developer | 🐍 Python Programmer | 🤖 AI & ML Graduate
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=24&pause=1000&center=true&vCenter=true&width=850&lines=Hello+World!+I'm+Sunil+Kumar+Kambar;Data+Driven+Decision+Maker;Power+BI+%7C+SQL+%7C+Python;Creating+Insights+From+Data;Future+Data+Analyst" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Welcome+to+My+GitHub+Profile!;Aspiring+Data+Analyst;Power+BI+%7C+SQL+%7C+Python;Transforming+Data+Into+Insights;Always+Learning+New+Technologies" />
 
 </div>
 
 ---
 
-## 🌟 Profile Summary
+## 🚀 About Me
 
-🎓 Bachelor of Engineering in Artificial Intelligence & Machine Learning
-
-📊 Enthusiastic Data Analyst with hands-on experience in Business Intelligence
-
-📈 Skilled in creating impactful dashboards using Power BI
-
-🛢️ Strong knowledge of SQL for data extraction and analysis
-
-🐍 Python developer focused on Data Analytics and Visualization
-
-🌱 Continuously learning new technologies in Data Analytics
-
-📍 Karnataka, India
-
-💼 Open to Data Analyst & Business Analyst Opportunities
+- 🎓 B.E. in Artificial Intelligence & Machine Learning
+- 📊 Passionate about Data Analytics & Business Intelligence
+- 📈 Building Interactive Dashboards with Power BI
+- 🛢️ Strong SQL Skills for Data Analysis
+- 🐍 Python Developer for Data Analytics
+- 🌱 Currently Learning Advanced Power BI & Data Engineering
+- 💼 Open to Data Analyst Opportunities
+- 📍 Karnataka, India
 
 ---
 
-## 📌 Core Competencies
+## 🛠️ Tech Stack
 
-🔹 Data Analysis & Reporting
-
-🔹 Dashboard Development
-
-🔹 Data Cleaning & Transformation
-
-🔹 Exploratory Data Analysis (EDA)
-
-🔹 KPI & Business Performance Tracking
-
-🔹 Data Visualization
-
-🔹 Business Intelligence Solutions
-
----
-
-## ⚙️ Tools & Technologies
-
-### 📊 BI & Analytics
+### 📊 Analytics & BI
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 💻 Programming & Libraries
+### 💻 Programming
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
@@ -66,103 +42,87 @@
 
 ---
 
-## 🚀 Featured Projects
+## 📌 Featured Projects
 
 ### 📈 Crowdfunding Analytics Dashboard
-
-✔ Campaign Performance Analysis
-
-✔ Success & Failure Insights
-
-✔ Funding Trend Analysis
-
-✔ Dynamic Power BI Dashboard
+- Campaign Performance Analysis
+- Funding Trend Analysis
+- KPI Tracking
+- Interactive Power BI Dashboard
 
 ### 🛒 Blinkit Sales Dashboard
+- Sales Performance Monitoring
+- Revenue Analysis
+- Product Insights
+- Dynamic Dashboard Reporting
 
-✔ Sales Performance Monitoring
-
-✔ Revenue Trend Analysis
-
-✔ Outlet & Product Insights
-
-✔ Interactive Business Reports
+### 👨‍💼 HR Analytics Dashboard
+- Employee Attrition Analysis
+- HR KPI Tracking
+- Workforce Insights
+- Interactive Reporting
 
 ### 🎬 Movie Data Analysis
-
-✔ Data Cleaning & Processing
-
-✔ Exploratory Data Analysis
-
-✔ Trend & Correlation Analysis
-
-✔ Advanced Visualizations Using Python
+- Data Cleaning & Transformation
+- Exploratory Data Analysis
+- Trend Analysis
+- Python Visualizations
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Sunil18v&show_icons=true&theme=radical"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Sunil18v&show_icons=true&theme=tokyonight"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunil18v&layout=compact&theme=radical"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunil18v&layout=compact&theme=tokyonight"/>
 
 </div>
 
 ---
 
-## 🔥 Contribution Streak
+## 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sunil18v&theme=radical" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sunil18v&theme=tokyonight"/>
 
 </div>
 
 ---
 
-## 📈 Activity Graph
+## 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sunil18v&theme=react-dark" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sunil18v&theme=react-dark"/>
 
 </div>
 
 ---
 
-## 🏅 Certifications
+## 🏆 Achievements
 
-📜 Data Analytics Certification
-
-📜 Power BI Certification
-
-📜 SQL Certification
-
-📜 Machine Learning Certification
-
-📜 Python for Data Science Certification
+- 🥈 Secured 2nd Prize in State-Level Mimicry Competition
+- 📊 Completed Multiple Data Analytics Projects
+- 📈 Developed Interactive Power BI Dashboards
+- 🎯 Consistently Learning and Sharing Power BI Journey
 
 ---
 
 ## 🎯 2026 Goals
 
-☑ Land a Data Analyst Role
-
-☑ Build 25+ End-to-End Projects
-
-☑ Master SQL & Power BI
-
-☑ Learn Azure Data Fundamentals
-
-☑ Explore Data Engineering Concepts
-
-☑ Strengthen Python Skills
+- ✅ Land a Data Analyst Role
+- ✅ Build 25+ End-to-End Projects
+- ✅ Master SQL & Power BI
+- ✅ Learn Azure Data Fundamentals
+- ✅ Explore Data Engineering
+- ✅ Strengthen Python Skills
 
 ---
 
-## 📫 Let's Connect
+## 📫 Connect With Me
 
 <div align="center">
 
@@ -184,10 +144,9 @@
 
 <div align="center">
 
-### 💡 "Data is a precious thing and will last longer than the systems themselves."
+### 💡 "Without data, you're just another person with an opinion."
 
-### ⭐ Thanks for visiting my profile!
-
-![Profile Views](https://komarev.com/ghpvc/?username=Sunil18v&label=Profile+Views&color=blue&style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=Sunil18v&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
+```
