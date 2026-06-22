@@ -1,13 +1,12 @@
-```md
-# 👋 Hi, I'm Sunil Kumar Kambar
+<h1 align="center">👋 Hi, I'm Sunil Kumar Kambar</h1>
 
-<div align="center">
+<h3 align="center">
+📊 Data Analyst | 📈 Power BI Developer | 🐍 Python Programmer | 🤖 AI & ML Graduate
+</h3>
 
-### 📊 Data Analyst | 📈 Power BI Developer | 🐍 Python Programmer | 🤖 AI & ML Graduate
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Welcome+to+My+GitHub+Profile!;Aspiring+Data+Analyst;Power+BI+%7C+SQL+%7C+Python;Transforming+Data+Into+Insights;Always+Learning+New+Technologies" />
-
-</div>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Welcome+to+My+GitHub+Profile!;Aspiring+Data+Analyst;Power+BI+%7C+SQL+%7C+Python;Transforming+Data+Into+Insights;Always+Learning+New+Technologies" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -15,24 +14,24 @@
 
 - 🎓 B.E. in Artificial Intelligence & Machine Learning
 - 📊 Passionate about Data Analytics & Business Intelligence
-- 📈 Building Interactive Dashboards with Power BI
-- 🛢️ Strong SQL Skills for Data Analysis
-- 🐍 Python Developer for Data Analytics
+- 📈 Power BI Dashboard Developer
+- 🛢️ SQL for Data Analysis
+- 🐍 Python for Data Analytics & Visualization
 - 🌱 Currently Learning Advanced Power BI & Data Engineering
 - 💼 Open to Data Analyst Opportunities
 - 📍 Karnataka, India
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills
 
-### 📊 Analytics & BI
+### Analytics & BI
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 💻 Programming
+### Programming
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
@@ -51,102 +50,88 @@
 - Interactive Power BI Dashboard
 
 ### 🛒 Blinkit Sales Dashboard
-- Sales Performance Monitoring
 - Revenue Analysis
-- Product Insights
-- Dynamic Dashboard Reporting
+- Product Performance Tracking
+- Business Insights Dashboard
 
 ### 👨‍💼 HR Analytics Dashboard
 - Employee Attrition Analysis
-- HR KPI Tracking
+- HR KPI Monitoring
 - Workforce Insights
-- Interactive Reporting
 
 ### 🎬 Movie Data Analysis
-- Data Cleaning & Transformation
+- Data Cleaning
 - Exploratory Data Analysis
-- Trend Analysis
 - Python Visualizations
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Sunil18v&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunil18v&layout=compact&theme=tokyonight"/>
-
-</div>
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sunil18v&show_icons=true&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunil18v&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🔥 GitHub Streak
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sunil18v&theme=tokyonight"/>
-
-</div>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sunil18v&theme=tokyonight" />
+</p>
 
 ---
 
 ## 📈 Contribution Graph
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sunil18v&theme=react-dark"/>
-
-</div>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sunil18v&theme=react-dark" />
+</p>
 
 ---
 
 ## 🏆 Achievements
 
-- 🥈 Secured 2nd Prize in State-Level Mimicry Competition
-- 📊 Completed Multiple Data Analytics Projects
+- 🥈 State-Level Mimicry Competition – 2nd Prize
+- 📊 Multiple Data Analytics Projects Completed
 - 📈 Developed Interactive Power BI Dashboards
-- 🎯 Consistently Learning and Sharing Power BI Journey
+- 🎯 Active Learner in Data Analytics
 
 ---
 
 ## 🎯 2026 Goals
 
-- ✅ Land a Data Analyst Role
-- ✅ Build 25+ End-to-End Projects
+- ✅ Get a Data Analyst Role
+- ✅ Build 25+ Projects
 - ✅ Master SQL & Power BI
 - ✅ Learn Azure Data Fundamentals
-- ✅ Explore Data Engineering
-- ✅ Strengthen Python Skills
+- ✅ Learn Data Engineering Concepts
 
 ---
 
 ## 📫 Connect With Me
 
-<div align="center">
-
+<p align="center">
 <a href="https://www.linkedin.com/in/sunil-kumar-b77365319">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
 <a href="https://github.com/Sunil18v">
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
 </a>
 
 <a href="mailto:sunilkumarkambar205@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
 </a>
-
-</div>
+</p>
 
 ---
 
-<div align="center">
+<h3 align="center">
+💡 "Without data, you're just another person with an opinion."
+</h3>
 
-### 💡 "Without data, you're just another person with an opinion."
-
-<img src="https://komarev.com/ghpvc/?username=Sunil18v&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-
-</div>
-```
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Sunil18v&label=Profile+Views&color=blue&style=for-the-badge" />
+</p>
