@@ -1,66 +1,82 @@
 <h1 align="center">Hi 👋, I'm Sunil Kumar Kambar</h1>
 
 <h3 align="center">
-Aspiring Data Analyst | Power BI Developer | SQL | Python | AI & ML Graduate
+Data Analyst | Business Analyst | Power BI Developer | MySQL Developer | Python Developer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=Welcome+to+My+GitHub!;Aspiring+Data+Analyst;Power+BI+%7C+SQL+%7C+Excel+%7C+Python;Building+Data-Driven+Solutions;Open+to+Data+Analyst+Opportunities" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Data+Analyst;Business+Analyst;Power+BI+Developer;MySQL+Developer;Python+Developer;Transforming+Data+into+Business+Insights;Open+to+Full-Time+Opportunities" />
 </p>
 
 ---
 
-# 👨‍💻 About Me
+# 🚀 About Me
 
 🎓 B.E. in Artificial Intelligence & Machine Learning
 
-📊 Passionate about Data Analytics, Business Intelligence & Visualization
+📊 Passionate about solving business problems using data
 
-💡 Skilled in transforming raw data into meaningful business insights
+📈 Skilled in building interactive dashboards and reports
 
-📈 Building interactive dashboards using Power BI
+🛢 Strong knowledge of SQL, MySQL and Data Modeling
 
-🛢️ Strong foundation in SQL for querying and analysis
+🐍 Python Developer for Data Analysis & Automation
 
-🐍 Using Python for data cleaning, analysis & visualization
+📉 Experience in Data Cleaning, EDA and Visualization
 
-🌱 Currently learning Data Engineering & Azure Fundamentals
+📚 Currently learning Azure Data Fundamentals & Data Engineering
 
-💼 Looking for Data Analyst / Business Analyst opportunities
+💼 **Open to Roles**
+
+- ✅ Data Analyst
+- ✅ Business Analyst
+- ✅ Power BI Developer
+- ✅ MySQL Developer
+- ✅ Python Developer
 
 📍 Karnataka, India
 
 ---
 
-# 🚀 Technical Skills
+# 💼 Technical Skills
 
-### 📊 Data Analytics
+## 📊 Data Analytics
 
-- Microsoft Excel
-- Power BI
-- SQL (MySQL)
-- Power Query
-- DAX
-- Power Pivot
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
 
-### 🐍 Programming
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🗄 Database
+![Power Query](https://img.shields.io/badge/Power_Query-005C84?style=for-the-badge)
 
-- MySQL
+![DAX](https://img.shields.io/badge/DAX-FFB000?style=for-the-badge)
 
-### 🛠 Tools
+---
 
-- Git
-- GitHub
-- VS Code
-- Jupyter Notebook
+## 🐍 Programming
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+
+---
+
+## 🗄 Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## ⚙ Tools
+
+Git • GitHub • VS Code • Jupyter Notebook
 
 ---
 
@@ -68,13 +84,13 @@ Aspiring Data Analyst | Power BI Developer | SQL | Python | AI & ML Graduate
 
 ## 📈 Crowdfunding Analytics Dashboard
 
-✔ Campaign Performance Analysis
-
-✔ Funding Trends
-
 ✔ KPI Dashboard
 
-✔ Interactive Filters & Slicers
+✔ Campaign Analysis
+
+✔ Funding Trend Analysis
+
+✔ Interactive Dashboard
 
 **Tech Stack**
 
@@ -84,13 +100,13 @@ Aspiring Data Analyst | Power BI Developer | SQL | Python | AI & ML Graduate
 
 ## 🛒 Blinkit Sales Dashboard
 
-✔ Sales Performance
+✔ Sales Analysis
+
+✔ Product Performance
 
 ✔ Customer Insights
 
-✔ Product Analysis
-
-✔ Revenue Dashboard
+✔ Business Dashboard
 
 **Tech Stack**
 
@@ -100,43 +116,51 @@ Aspiring Data Analyst | Power BI Developer | SQL | Python | AI & ML Graduate
 
 ## 👨‍💼 HR Analytics Dashboard
 
-✔ Employee Attrition Analysis
-
-✔ Workforce Insights
-
-✔ HR KPIs
+✔ Employee Attrition
 
 ✔ Department Analysis
 
+✔ HR KPIs
+
+✔ Workforce Dashboard
+
 **Tech Stack**
 
-`Power BI` `Excel`
+`Power BI`
 
 ---
 
-## 🎬 Movie Data Analysis
+## 🎬 Netflix Data Analysis
 
 ✔ Data Cleaning
 
 ✔ Exploratory Data Analysis
 
-✔ Data Visualization
+✔ Visualization
 
 ✔ Business Insights
 
 **Tech Stack**
 
-`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn`
+`Python`
+
+`Pandas`
+
+`NumPy`
+
+`Matplotlib`
+
+`Seaborn`
 
 ---
 
-# 📈 GitHub Statistics
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sunil18v&show_icons=true&theme=tokyonight&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sunil18v&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunil18v&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunil18v&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
@@ -146,17 +170,17 @@ Aspiring Data Analyst | Power BI Developer | SQL | Python | AI & ML Graduate
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sunil18v&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sunil18v&theme=github-dark-blue&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📊 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sunil18v&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sunil18v&theme=github-dark"/>
 
 </p>
 
@@ -164,37 +188,41 @@ Aspiring Data Analyst | Power BI Developer | SQL | Python | AI & ML Graduate
 
 # 🏆 Certifications
 
-- Data Analyst Internship
-- Power BI
-- SQL
-- Python for Data Analytics
-- Microsoft Excel
+🏅 Data Analyst Internship
+
+🏅 Power BI
+
+🏅 SQL
+
+🏅 Python
+
+🏅 Microsoft Excel
 
 ---
 
 # 🏅 Achievements
 
-🥈 2nd Prize – State Level Mimicry Competition
+🥈 State Level Mimicry Competition – 2nd Prize
 
-📊 Built 10+ Data Analytics Projects
+📊 Built 10+ End-to-End Data Analytics Projects
 
-📈 Created Interactive Business Dashboards
+📈 Completed 30-Day Power BI Learning Challenge
 
-🎯 Active LinkedIn Learner (30 Days of Power BI)
+🚀 Continuously improving through real-world projects
 
 ---
 
-# 🎯 2026 Goals
+# 🎯 Career Objective
 
-✅ Secure a Data Analyst Role
+Seeking opportunities as a
 
-✅ Build 25+ End-to-End Data Projects
+- Data Analyst
+- Business Analyst
+- Power BI Developer
+- MySQL Developer
+- Python Developer
 
-✅ Master SQL & Power BI
-
-✅ Learn Azure Data Fundamentals
-
-✅ Learn Data Engineering Concepts
+where I can leverage analytical thinking, SQL, Power BI, Python, and business intelligence skills to deliver impactful data-driven solutions.
 
 ---
 
@@ -202,30 +230,30 @@ Aspiring Data Analyst | Power BI Developer | SQL | Python | AI & ML Graduate
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/sunil-kumar-b77365319">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://linkedin.com/in/sunil-kumar-b77365319">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://github.com/Sunil18v">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="mailto:sunilkumarkambar205@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>
 
 ---
 
-# 💬 Quote
+# 💡 Quote
 
-> **"Turning data into insights and insights into impactful decisions."**
+> **"Transforming raw data into meaningful insights that drive smarter business decisions."**
 
 ---
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Sunil18v&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Sunil18v&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
 </p>
