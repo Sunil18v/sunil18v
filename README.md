@@ -2,168 +2,151 @@
 
 # SUNIL KUMAR KAMBAR
 
-### Data Analyst | Power BI Developer | Business Analyst | SQL Developer
+### Data Analyst | Power BI Developer | Business Analyst
 
-**Artificial Intelligence & Machine Learning Engineer**
+Artificial Intelligence & Machine Learning Engineer
 
 <p>
-  <a href="https://linkedin.com/in/sunil-kumar-b77365319">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:sunilkumarkambar205@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://github.com/Sunil18v">
-    <img src="https://img.shields.io/badge/GitHub-Sunil18v-181717?style=flat-square&logo=github&logoColor=white">
-  </a>
+<a href="https://linkedin.com/in/sunil-kumar-b77365319">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:sunilkumarkambar205@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/Sunil18v">
+<img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=flat&logo=github&logoColor=white"/>
+</a>
 </p>
 
 </div>
 
 ---
 
-## About
+## PROFESSIONAL SUMMARY
 
-I am an **Artificial Intelligence & Machine Learning Engineering graduate** focused on **Data Analytics, Business Intelligence, and Dashboard Development**.
+Data Analytics professional with an **Artificial Intelligence & Machine Learning engineering background**, focused on transforming raw data into meaningful business insights.
 
-I work with structured and unstructured datasets to clean, transform, analyze, visualize, and communicate insights that support business decisions.
+Experienced in building analytical solutions using **SQL, Power BI, Excel, Python, DAX, and Power Query**, with hands-on experience in data cleaning, transformation, KPI development, data visualization, and dashboard creation.
 
-My primary technical focus is:
-
-* **SQL** for data extraction, transformation, and analysis
-* **Power BI** for business intelligence and interactive dashboards
-* **Excel** for reporting and data analysis
-* **Python** for data cleaning and exploratory analysis
-* **DAX & Power Query** for advanced Power BI solutions
-
-I am currently looking for opportunities where I can contribute to **data-driven decision making and business analytics**.
+Currently focused on building **business intelligence and data analytics solutions** that help organizations understand performance, identify trends, and make data-driven decisions.
 
 ---
 
-## Core Expertise
+## CORE SKILLS
 
-### Data Analytics
-
-`Data Cleaning` `EDA` `KPI Analysis` `Trend Analysis` `Business Insights`
-
-### Business Intelligence
-
-`Power BI` `DAX` `Power Query` `Dashboard Development` `Data Visualization`
-
-### Database
-
-`SQL` `MySQL` `Joins` `CTEs` `Subqueries` `Window Functions`
-
-### Programming
-
-`Python` `Pandas` `NumPy`
-
-### Visualization
-
-`Power BI` `Matplotlib` `Seaborn` `Excel`
-
-### Development Tools
-
-`Git` `GitHub` `VS Code`
+| Area                      | Technologies                                                        |
+| ------------------------- | ------------------------------------------------------------------- |
+| **Data Analytics**        | Data Cleaning, EDA, KPI Analysis, Trend Analysis, Business Insights |
+| **Business Intelligence** | Power BI, DAX, Power Query, Data Modeling                           |
+| **Databases**             | SQL, MySQL, Joins, CTEs, Subqueries, Window Functions               |
+| **Programming**           | Python, Pandas, NumPy                                               |
+| **Visualization**         | Power BI, Matplotlib, Seaborn, Excel                                |
+| **Tools**                 | Git, GitHub, VS Code, Jupyter Notebook                              |
 
 ---
 
-## Technical Stack
+## TECHNOLOGY STACK
 
 <div align="center">
+
+### Analytics & Programming
 
 <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/DAX-512BD4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Power%20Query-107C41?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power%20BI-Analytics-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Microsoft%20Excel-Analytics-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-Computing-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/DAX-Data%20Analysis-512BD4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power%20Query-ETL-107C41?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# Selected Projects
+# FEATURED PROJECTS
 
-## 01 — Crowdfunding Analytics Dashboard
+## 01. Crowdfunding Analytics Dashboard
 
-**Power BI | DAX | Power Query**
+**Power BI · DAX · Power Query**
 
-An interactive business intelligence dashboard designed to evaluate crowdfunding campaign performance.
+Business intelligence dashboard developed to analyze crowdfunding campaign performance and funding trends.
 
-### Key Work
+**Key Contributions**
 
-* Developed KPI metrics for successful campaigns and funding performance
-* Analyzed campaign goals, backers, and funding trends
-* Created DAX measures for business metrics
-* Built dynamic slicers and interactive visualizations
-* Identified patterns across campaign categories and goal ranges
+* Designed interactive KPI cards for campaign performance
+* Analyzed successful campaigns, funding, and backer activity
+* Created calculated measures using DAX
+* Implemented dynamic slicers and filters
+* Analyzed campaign performance across categories and goal ranges
+* Developed an interactive business-focused dashboard
 
-**Focus:** Business Intelligence · KPI Analysis · Data Visualization
+**Key Skills:** `Power BI` `DAX` `Power Query` `KPI Analysis` `Data Visualization`
 
 ---
 
-## 02 — Blinkit Sales Analytics
+## 02. Blinkit Sales Analytics Dashboard
 
-**Power BI | Excel**
+**Power BI · Excel**
 
-A sales analytics dashboard designed to provide visibility into product and outlet performance.
+Interactive sales analytics solution designed to analyze product, outlet, and category performance.
 
-### Key Work
+**Key Contributions**
 
-* Built interactive sales KPI dashboard
-* Analyzed product-level performance
+* Developed sales KPI dashboard
+* Analyzed product-level sales performance
 * Evaluated outlet and category trends
-* Created business-focused visualizations
-* Used filters and slicers for interactive analysis
+* Created interactive visual reports
+* Applied filters and slicers for business analysis
+* Presented sales insights through intuitive visualizations
 
-**Focus:** Sales Analytics · KPI Reporting · Dashboard Development
+**Key Skills:** `Power BI` `Excel` `Sales Analytics` `Dashboard Development`
 
 ---
 
-## 03 — HR Analytics Dashboard
+## 03. HR Analytics Dashboard
 
-**Power BI | DAX | Power Query**
+**Power BI · DAX · Power Query**
 
-A workforce analytics solution focused on employee attrition and organizational performance.
+Workforce analytics dashboard focused on employee performance and attrition analysis.
 
-### Key Work
+**Key Contributions**
 
-* Created Total Employee and Active Employee KPIs
+* Developed Total Employee and Active Employee KPIs
 * Calculated Attrition Count and Attrition Rate
-* Analyzed workforce trends by department
-* Developed interactive HR reporting dashboard
-* Used DAX to create dynamic measures
+* Analyzed employee trends across departments
+* Created interactive workforce reporting
+* Developed dynamic DAX measures
+* Designed management-focused HR dashboards
 
-**Focus:** HR Analytics · Workforce Insights · KPI Reporting
+**Key Skills:** `HR Analytics` `Power BI` `DAX` `KPI Reporting`
 
 ---
 
-## 04 — Netflix Data Analysis
+## 04. Netflix Data Analysis
 
-**Python | Pandas | NumPy | Matplotlib | Seaborn**
+**Python · Pandas · NumPy · Matplotlib · Seaborn**
 
-Exploratory data analysis of Netflix content to identify trends and patterns.
+Exploratory data analysis project focused on understanding Netflix content trends.
 
-### Key Work
+**Key Contributions**
 
-* Cleaned and transformed raw Netflix data
+* Cleaned and transformed raw datasets using Pandas
 * Performed exploratory data analysis
-* Analyzed movies and TV shows by year, genre, country, and rating
-* Created statistical and visual insights
-* Used Python libraries for data manipulation and visualization
+* Analyzed content by year, genre, country, and rating
+* Identified trends and patterns in Netflix content
+* Created visualizations using Matplotlib and Seaborn
+* Generated insights from structured datasets
 
-**Focus:** Python Analytics · EDA · Data Visualization
+**Key Skills:** `Python` `Pandas` `NumPy` `EDA` `Data Visualization`
 
 ---
 
-# SQL Expertise
+# SQL DEVELOPMENT
 
-I regularly practice SQL concepts required for professional Data Analyst roles.
+Strong foundation in SQL for analytical and business reporting use cases.
 
 ```sql
 SELECT
@@ -178,76 +161,144 @@ ORDER BY average_salary DESC;
 
 ### SQL Concepts
 
-* SELECT & Filtering
-* Aggregate Functions
-* GROUP BY & HAVING
-* Joins
-* Subqueries
-* CTEs
-* CASE Statements
-* Window Functions
-* ROW_NUMBER
-* RANK
-* DENSE_RANK
-* LAG & LEAD
+`SELECT`
+
+`WHERE`
+
+`GROUP BY`
+
+`HAVING`
+
+`ORDER BY`
+
+`Aggregate Functions`
+
+`JOINS`
+
+`Subqueries`
+
+`CTEs`
+
+`CASE Statements`
+
+`Window Functions`
+
+`ROW_NUMBER`
+
+`RANK`
+
+`DENSE_RANK`
+
+`LAG`
+
+`LEAD`
 
 ---
 
-# Power BI Expertise
+# POWER BI DEVELOPMENT
 
 ### Data Preparation
 
-`Power Query` → Cleaning → Transformation → Data Modeling
+**Power Query → Cleaning → Transformation → Data Validation**
 
 ### Data Modeling
 
-`Star Schema` → Relationships → Fact & Dimension Tables
+**Star Schema → Relationships → Fact Tables → Dimension Tables**
 
-### Analytics
+### DAX
 
-`DAX Measures` → `Calculated Columns` → `Time Intelligence`
+**Measures → Calculated Columns → Aggregations → Time Intelligence**
 
 ### Reporting
 
-`KPI Cards` → `Slicers` → `Filters` → `Charts` → `Interactive Dashboards`
+**KPIs → Slicers → Filters → Drilldowns → Interactive Dashboards**
+
+### Business Intelligence
+
+**Data → Model → Analysis → Visualization → Business Insights**
 
 ---
 
-# Professional Development
+# PYTHON FOR DATA ANALYTICS
 
-Currently strengthening my skills in:
+Currently building practical experience with:
 
-**Advanced SQL**
-Database querying, optimization, CTEs, and advanced window functions.
-
-**Power BI Service**
-Publishing, sharing, workspaces, dashboards, and reporting workflows.
-
-**Microsoft Azure**
-Preparing for **Azure Data Fundamentals (DP-900)**.
-
-**Data Engineering**
-Learning the fundamentals of data pipelines, ETL, cloud data platforms, and modern data architecture.
-
----
-
-# Achievements
-
-* **2nd Prize — Karnataka State-Level Mimicry Competition**
-* Built **10+ Data Analytics Projects**
-* Completed a **30-Day Power BI Learning Challenge**
-* Completed Data Analytics training / internship experience
-* Continuously building projects in SQL, Power BI, Excel, and Python
+```text
+Python
+│
+├── Pandas
+│   ├── Data Cleaning
+│   ├── Data Transformation
+│   └── Data Analysis
+│
+├── NumPy
+│   ├── Arrays
+│   ├── Numerical Operations
+│   └── Statistical Analysis
+│
+├── Matplotlib
+│   └── Data Visualization
+│
+└── Seaborn
+    └── Statistical Visualization
+```
 
 ---
 
-# GitHub Activity
+# CURRENT LEARNING
+
+### Advanced SQL
+
+* Advanced joins
+* CTEs
+* Window functions
+* Query optimization
+* Analytical SQL
+
+### Power BI
+
+* Advanced DAX
+* Data modeling
+* Power BI Service
+* Dashboard development
+* Business reporting
+
+### Microsoft Azure
+
+* Cloud fundamentals
+* Data services
+* Azure Data Fundamentals — DP-900 preparation
+
+### Data Engineering
+
+* ETL concepts
+* Data pipelines
+* Cloud data platforms
+* Modern data architecture
+
+---
+
+# ACHIEVEMENTS
+
+🏆 **2nd Prize — Karnataka State-Level Mimicry Competition**
+
+📊 **10+ Data Analytics Projects**
+
+📈 **30-Day Power BI Learning Challenge**
+
+🎓 **Artificial Intelligence & Machine Learning Engineering Graduate**
+
+💼 **Data Analytics Training / Internship Experience**
+
+---
+
+# GITHUB STATISTICS
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sunil18v&show_icons=true&hide_border=true&theme=default&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sunil18v&show_icons=true&hide_border=true&rank_icon=github"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunil18v&layout=compact&hide_border=true&theme=default"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunil18v&layout=compact&hide_border=true"/>
 
 </div>
 
@@ -261,35 +312,59 @@ Learning the fundamentals of data pipelines, ETL, cloud data platforms, and mode
 
 ---
 
-# Career Interests
+# CAREER FOCUS
 
-I am open to **full-time opportunities** in:
+I am interested in opportunities where I can apply analytics, business intelligence, and database skills to solve real-world business problems.
 
-| Role               | Focus                                |
-| ------------------ | ------------------------------------ |
-| Data Analyst       | SQL · Power BI · Excel · Python      |
-| Power BI Developer | Power BI · DAX · Power Query         |
-| Business Analyst   | Business Insights · Reporting · KPIs |
-| SQL Developer      | SQL · MySQL · Database Analysis      |
-| BI Analyst         | BI · Visualization · Reporting       |
+| Target Role            | Primary Skills                            |
+| ---------------------- | ----------------------------------------- |
+| **Data Analyst**       | SQL · Power BI · Excel · Python           |
+| **Power BI Developer** | Power BI · DAX · Power Query              |
+| **Business Analyst**   | KPIs · Reporting · Business Insights      |
+| **BI Analyst**         | Power BI · Data Visualization · Analytics |
+| **SQL Developer**      | SQL · MySQL · Database Analysis           |
 
 ---
 
-# Let's Connect
+# WHAT I BRING
+
+```text
+Analytical Thinking
+        ↓
+Data Cleaning & Transformation
+        ↓
+SQL & Data Analysis
+        ↓
+Data Modeling
+        ↓
+Power BI & Visualization
+        ↓
+Business Insights
+        ↓
+Data-Driven Decisions
+```
+
+---
+
+# LET'S CONNECT
 
 <div align="center">
 
 <a href="https://linkedin.com/in/sunil-kumar-b77365319">
-<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:sunilkumarkambar205@gmail.com">
-<img src="https://img.shields.io/badge/Email-sunilkumarkambar205%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Sunil18v">
+<img src="https://img.shields.io/badge/GitHub-View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
 
-**Open to opportunities, collaborations, and data analytics projects.**
+**Open to Data Analytics | Business Intelligence | Power BI opportunities**
 
 </div>
 
@@ -297,8 +372,8 @@ I am open to **full-time opportunities** in:
 
 <div align="center">
 
-### Data → Insights → Decisions
+### Turning Data Into Business Insights
 
-**Thank you for visiting my profile.**
+*Analyze · Visualize · Optimize · Decide*
 
 </div>
